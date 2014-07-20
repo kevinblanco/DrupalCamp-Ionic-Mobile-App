@@ -1,0 +1,63 @@
+<ion-view title="Carro en venta">
+  <ion-content class="has-header main-car-content">
+
+  	<div class="row" ng-show="carLoader">
+	    <div class="col centered-content">
+	      <i class="icon ion-loading-c loading-big"></i>
+	      <h3>Cargando información del auto</h3>
+	    </div>
+  </div>
+	
+	<div class="car-content" ng-show="!carLoader">
+		
+		<div class="row">
+			<div class="col centered-content">
+				<h1>{{car.title}} {{car.field_model.und.0.value}}</h1>
+			</div>
+		</div>
+
+		<div class="car-info-content">
+			
+			<div class="row">
+			<div class="col col-50 left-align">
+				<h5><b>Kilometraje:</b> {{car.field_mileage.und.0.value}}km</h5>
+			</div>
+			<div class="col col-50 left-align">
+				<h5><b>Estado:</b> {{car.field_status.und.0.value}}</h5>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col col-50 left-align">
+				<h5><b>Año:</b> {{car.field_year.und.0.value}}</h5>
+			</div>
+			<div class="col col-50 left-align">
+				<h5><b>Transmision:</b> {{car.field_transmission.und.0.value}}</h5>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col col-50 left-align">
+				<h5><b>Color:</b> {{car.field_color.und.0.value}}</h5>
+			</div>
+			<div class="col col-50 left-align">
+				<h5><b>Precio:</b> {{car.field_price.und.0.value}}</h5>
+			</div>
+		</div>
+
+		<div class="list">
+		  <div class="item item-divider">
+		    Extras
+		  </div>
+
+		  <a class="item" ng-repeat="extra in car.field_features.und">
+		    {{extra.value}}
+		  </a>
+		</div>
+
+		</div>
+	</div>
+
+
+  </ion-content>
+</ion-view>

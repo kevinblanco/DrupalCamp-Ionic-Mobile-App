@@ -1,0 +1,47 @@
+<ion-view title="Carros en Venta">
+  <ion-nav-buttons side="left">
+    <button menu-toggle="left" class="button button-icon icon ion-navicon"></button>
+  </ion-nav-buttons>
+  <ion-content class="has-header gray-background">
+
+
+  <div class="row" ng-show="loadingCars">
+    <div class="col centered-content">
+      <i class="icon ion-loading-c loading-big"></i>
+      <h2>Cargando autos...</h2>
+    </div>
+  </div>
+
+
+
+    <div class="list card" ng-repeat="car in cars">
+      <div class="item item-avatar">
+        <img src="http://img4.wikia.nocookie.net/__cb20120621121046/logopedia/images/8/89/ToyotaLogoRedVer.png">
+        <h2>{{car.car.year}} {{car.car.brand}} {{car.car.model}}</h2>
+        <p>{{car.car.mileage}}Km | Color {{car.car.color}}</p>
+      </div>
+      <div class="item item-image">
+        <img src="{{car.car.photo}}">
+      </div>
+      <div class="item">
+        <div class="row">
+          <div class="col col-50">
+            <p>{{car.car.features}}</p>
+          </div>
+          <div class="col col-50 right">
+            <h2 class="right-align"> Precio: <b>{{car.car.price}}</b> </h2>
+          </div>
+        </div>
+      </div>
+
+      <a class="item item-icon-right royal" href="#/app/cars/{{car.car.id}}">
+        <i class="icon ion-ios7-plus-empty"></i>
+        Ver Mas
+      </a>
+    </div>
+
+  </ion-content>
+</ion-view>
+
+
+

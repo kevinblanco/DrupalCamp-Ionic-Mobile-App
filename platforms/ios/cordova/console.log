@@ -1,0 +1,97 @@
+2014-07-17 14:00:47.706 DrupalCamp[9656:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-17 14:00:47.730 DrupalCamp[9656:70b] Unlimited access to network resources
+2014-07-17 14:00:47.733 DrupalCamp[9656:70b] Fix applied for database locations?: YES
+2014-07-17 14:00:47.888 DrupalCamp[9656:70b] [CDVTimer][keyboard] 0.074983ms
+2014-07-17 14:00:47.889 DrupalCamp[9656:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-17 14:00:47.889 DrupalCamp[9656:70b] [CDVTimer][statusbar] 0.518024ms
+2014-07-17 14:00:47.890 DrupalCamp[9656:70b] [CDVTimer][TotalPluginStartup] 1.590967ms
+2014-07-17 14:00:48.081 DrupalCamp[9656:70b] Resetting plugins due to page load.
+2014-07-17 14:00:48.380 DrupalCamp[9656:70b] Finished load of: file:///Users/kevinblanco/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/037CEED2-1B2D-4E1C-BCD0-551185A19B55/DrupalCamp.app/www/index.html#/app/playlists
+2014-07-17 14:09:29.715 DrupalCamp[11929:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-17 14:09:29.721 DrupalCamp[11929:70b] Unlimited access to network resources
+2014-07-17 14:09:29.734 DrupalCamp[11929:70b] [CDVTimer][keyboard] 0.054002ms
+2014-07-17 14:09:29.735 DrupalCamp[11929:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-17 14:09:29.735 DrupalCamp[11929:70b] [CDVTimer][statusbar] 0.348985ms
+2014-07-17 14:09:29.735 DrupalCamp[11929:70b] [CDVTimer][TotalPluginStartup] 1.075983ms
+2014-07-17 14:09:29.833 DrupalCamp[11929:70b] Resetting plugins due to page load.
+2014-07-17 14:09:29.926 DrupalCamp[11929:70b] Finished load of: file:///Users/kevinblanco/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/037CEED2-1B2D-4E1C-BCD0-551185A19B55/DrupalCamp.app/www/index.html#/app/playlists
+2014-07-17 14:29:21.266 DrupalCamp[16940:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-17 14:29:21.303 DrupalCamp[16940:70b] Unlimited access to network resources
+2014-07-17 14:29:21.457 DrupalCamp[16940:70b] [CDVTimer][keyboard] 0.060976ms
+2014-07-17 14:29:21.457 DrupalCamp[16940:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-17 14:29:21.458 DrupalCamp[16940:70b] [CDVTimer][statusbar] 0.449002ms
+2014-07-17 14:29:21.458 DrupalCamp[16940:70b] [CDVTimer][TotalPluginStartup] 1.454055ms
+2014-07-17 14:29:21.695 DrupalCamp[16940:70b] Resetting plugins due to page load.
+2014-07-17 14:29:21.958 DrupalCamp[16940:70b] Finished load of: file:///Users/kevinblanco/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/037CEED2-1B2D-4E1C-BCD0-551185A19B55/DrupalCamp.app/www/index.html#/app/playlists
+2014-07-17 15:56:16.974 DrupalCamp[38221:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-17 15:56:17.007 DrupalCamp[38221:70b] Unlimited access to network resources
+2014-07-17 15:56:17.188 DrupalCamp[38221:70b] [CDVTimer][keyboard] 0.073016ms
+2014-07-17 15:56:17.189 DrupalCamp[38221:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-17 15:56:17.189 DrupalCamp[38221:70b] [CDVTimer][statusbar] 0.456989ms
+2014-07-17 15:56:17.190 DrupalCamp[38221:70b] [CDVTimer][TotalPluginStartup] 1.461983ms
+2014-07-17 15:56:17.503 DrupalCamp[38221:70b] Resetting plugins due to page load.
+2014-07-17 15:56:17.782 DrupalCamp[38221:70b] Finished load of: file:///Users/kevinblanco/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/037CEED2-1B2D-4E1C-BCD0-551185A19B55/DrupalCamp.app/www/index.html#/app/cars
+2014-07-17 18:45:56.246 DrupalCamp[79693:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-17 18:45:56.281 DrupalCamp[79693:70b] Unlimited access to network resources
+2014-07-17 18:45:56.458 DrupalCamp[79693:70b] [CDVTimer][keyboard] 0.066996ms
+2014-07-17 18:45:56.458 DrupalCamp[79693:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-17 18:45:56.458 DrupalCamp[79693:70b] [CDVTimer][statusbar] 0.214040ms
+2014-07-17 18:45:56.458 DrupalCamp[79693:70b] [CDVTimer][TotalPluginStartup] 0.717998ms
+2014-07-17 18:45:56.747 DrupalCamp[79693:70b] Resetting plugins due to page load.
+2014-07-17 18:45:57.038 DrupalCamp[79693:70b] Finished load of: file:///Users/kevinblanco/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/037CEED2-1B2D-4E1C-BCD0-551185A19B55/DrupalCamp.app/www/index.html#/app/cars
+2014-07-18 14:17:10.366 DrupalCamp[4117:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-18 14:17:10.391 DrupalCamp[4117:70b] Unlimited access to network resources
+2014-07-18 14:17:10.558 DrupalCamp[4117:70b] [CDVTimer][keyboard] 0.082016ms
+2014-07-18 14:17:10.558 DrupalCamp[4117:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-18 14:17:10.558 DrupalCamp[4117:70b] [CDVTimer][statusbar] 0.388980ms
+2014-07-18 14:17:10.559 DrupalCamp[4117:70b] [CDVTimer][TotalPluginStartup] 1.331985ms
+2014-07-18 14:17:10.684 DrupalCamp[4117:70b] Resetting plugins due to page load.
+2014-07-18 14:17:10.866 DrupalCamp[4117:70b] Finished load of: file:///Users/kevinblanco/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/037CEED2-1B2D-4E1C-BCD0-551185A19B55/DrupalCamp.app/www/index.html#/app/cars
+2014-07-18 14:56:13.649 DrupalCamp[13841:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-18 14:56:13.658 DrupalCamp[13841:70b] Unlimited access to network resources
+2014-07-18 14:56:13.682 DrupalCamp[13841:70b] [CDVTimer][keyboard] 0.083983ms
+2014-07-18 14:56:13.682 DrupalCamp[13841:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-18 14:56:13.683 DrupalCamp[13841:70b] [CDVTimer][statusbar] 0.581980ms
+2014-07-18 14:56:13.683 DrupalCamp[13841:70b] [CDVTimer][TotalPluginStartup] 1.893044ms
+2014-07-18 14:56:13.793 DrupalCamp[13841:70b] Resetting plugins due to page load.
+2014-07-18 14:56:13.950 DrupalCamp[13841:70b] Finished load of: file:///Users/kevinblanco/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/037CEED2-1B2D-4E1C-BCD0-551185A19B55/DrupalCamp.app/www/index.html#/app/cars
+2014-07-18 14:56:50.083 DrupalCamp[13841:70b] {"username":"kevin","password":"Pa$$w0rdkevin"}
+2014-07-18 14:56:51.338 DrupalCamp[13841:70b] funko
+Terminating in response to SpringBoard's termination.
+2014-07-18 14:59:57.030 DrupalCamp[14960:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-18 14:59:57.038 DrupalCamp[14960:70b] Unlimited access to network resources
+2014-07-18 14:59:57.057 DrupalCamp[14960:70b] [CDVTimer][keyboard] 0.105023ms
+2014-07-18 14:59:57.058 DrupalCamp[14960:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-18 14:59:57.059 DrupalCamp[14960:70b] [CDVTimer][statusbar] 0.548959ms
+2014-07-18 14:59:57.059 DrupalCamp[14960:70b] [CDVTimer][TotalPluginStartup] 1.984000ms
+2014-07-18 14:59:57.160 DrupalCamp[14960:70b] Resetting plugins due to page load.
+2014-07-18 14:59:57.277 DrupalCamp[14960:70b] Finished load of: file:///Users/kevinblanco/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/037CEED2-1B2D-4E1C-BCD0-551185A19B55/DrupalCamp.app/www/index.html#/app/cars
+2014-07-18 15:00:45.659 DrupalCamp[14960:70b] {"username":"kevin","password":"Pa$$w0rdkevin"}
+2014-07-18 15:00:46.765 DrupalCamp[14960:70b] funko
+2014-07-18 15:00:47.941 DrupalCamp[14960:70b] {"username":"kevin","password":"Pa$$w0rdkevin"}
+2014-07-18 15:00:49.281 DrupalCamp[14960:70b] funko
+2014-07-18 15:00:53.899 DrupalCamp[14960:70b] {"username":"kevin","password":"Pa$$w0rdkevin"}
+2014-07-18 15:00:55.425 DrupalCamp[14960:70b] funko
+Terminating in response to SpringBoard's termination.
+2014-07-18 18:29:56.468 DrupalCamp[66124:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-18 18:29:56.489 DrupalCamp[66124:70b] Unlimited access to network resources
+2014-07-18 18:29:56.610 DrupalCamp[66124:70b] [CDVTimer][keyboard] 0.078976ms
+2014-07-18 18:29:56.615 DrupalCamp[66124:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-18 18:29:56.616 DrupalCamp[66124:70b] [CDVTimer][statusbar] 0.636041ms
+2014-07-18 18:29:56.616 DrupalCamp[66124:70b] [CDVTimer][TotalPluginStartup] 6.802976ms
+2014-07-18 18:29:56.744 DrupalCamp[66124:70b] Resetting plugins due to page load.
+2014-07-18 18:29:56.919 DrupalCamp[66124:70b] Finished load of: file:///Users/kevinblanco/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/037CEED2-1B2D-4E1C-BCD0-551185A19B55/DrupalCamp.app/www/index.html#/app/cars
+2014-07-18 18:30:12.069 DrupalCamp[66124:70b] {"vid":"1","uid":"1","title":"Hummer","log":"","status":"1","comment":"1","promote":"1","sticky":"0","nid":"1","type":"car","language":"und","created":"1405631369","changed":"1405631369","tnid":"0","translate":"0","revision_timestamp":"1405631369","revision_uid":"1","body":{"und":[{"value":"Como nuevo, asientos de cuero, solamente un dueño","summary":"","format":"filtered_html","safe_value":"<p>Como nuevo, asientos de cuero, solamente un dueño</p>\n","safe_summary":""}]},"field_model":{"und":[{"value":"H1","format":null,"safe_value":"H1"}]},"field_price":{"und":[{"value":"$60000","format":null,"safe_value":"$60000"}]},"field_photo":{"und":[{"fid":"1","uid":"1","filename":"download.jpeg","uri":"public://download.jpeg","filemime":"image/jpeg","filesize":"11525","status":"1","timestamp":"1405631369","rdf_mapping":[],"alt":"","title":"","width":"284","height":"177"}]},"field_status":{"und":[{"value":"perfect"}]},"field_transmission":{"und":[{"value":"manual"}]},"field_mileage":{"und":[{"value":"16000","format":null,"safe_value":"16000"}]},"field_year":{"und":[{"value":"2012"}]},"field_color":{"und":[{"value":"Amarillo","format":null,"safe_value":"Amarillo"}]},"field_features":{"und":[{"value":"airbag"},{"value":"ac"},{"value":"alarm"},{"value":"rtv"},{"value":"radio"},{"value":"absbreaks"}]},"rdf_mapping":{"rdftype":["sioc:Item","foaf:Document"],"title":{"predicates":["dc:title"]},"created":{"predicates":["dc:date","dc:created"],"datatype":"xsd:dateTime","callback":"date_iso8601"},"changed":{"predicates":["dc:modified"],"datatype":"xsd:dateTime","callback":"date_iso8601"},"body":{"predicates":["content:encoded"]},"uid":{"predicates":["sioc:has_creator"],"type":"rel"},"name":{"predicates":["foaf:name"]},"comment_count":{"predicates":["sioc:num_replies"],"datatype":"xsd:integer"},"last_activity":{"predicates":["sioc:last_activity_date"],"datatype":"xsd:dateTime","callback":"date_iso8601"}},"cid":"0","last_comment_timestamp":"1405631369","last_comment_name":null,"last_comment_uid":"1","comment_count":"0","name":"kevin","picture":"0","data":"b:0;","path":"http://drupalcamp.kevinblanco.io/?q=node/1"}
+2014-07-18 18:30:36.686 DrupalCamp[66124:70b] {"vid":"2","uid":"1","title":"Nissan","log":"","status":"1","comment":"1","promote":"1","sticky":"0","nid":"2","type":"car","language":"und","created":"1405632421","changed":"1405632421","tnid":"0","translate":"0","revision_timestamp":"1405632421","revision_uid":"1","body":{"und":[{"value":"Transformado, tiene muchas extras y es muy economico. ","summary":"","format":"filtered_html","safe_value":"<p>Transformado, tiene muchas extras y es muy economico.</p>\n","safe_summary":""}]},"field_model":{"und":[{"value":"Tiida","format":null,"safe_value":"Tiida"}]},"field_price":{"und":[{"value":"$45000","format":null,"safe_value":"$45000"}]},"field_photo":{"und":[{"fid":"2","uid":"1","filename":"Impul-Nissan-Versa-Note-1.jpg","uri":"public://Impul-Nissan-Versa-Note-1.jpg","filemime":"image/jpeg","filesize":"95206","status":"1","timestamp":"1405632421","rdf_mapping":[],"alt":"","title":"","width":"1024","height":"682"}]},"field_status":{"und":[{"value":"perfect"}]},"field_transmission":{"und":[{"value":"manual"}]},"field_mileage":{"und":[{"value":"40000","format":null,"safe_value":"40000"}]},"field_year":{"und":[{"value":"2014"}]},"field_color":{"und":[{"value":"Gris","format":null,"safe_value":"Gris"}]},"field_features":{"und":[{"value":"airbag"},{"value":"ac"},{"value":"alarm"},{"value":"absbreaks"}]},"rdf_mapping":{"rdftype":["sioc:Item","foaf:Document"],"title":{"predicates":["dc:title"]},"created":{"predicates":["dc:date","dc:created"],"datatype":"xsd:dateTime","callback":"date_iso8601"},"changed":{"predicates":["dc:modified"],"datatype":"xsd:dateTime","callback":"date_iso8601"},"body":{"predicates":["content:encoded"]},"uid":{"predicates":["sioc:has_creator"],"type":"rel"},"name":{"predicates":["foaf:name"]},"comment_count":{"predicates":["sioc:num_replies"],"datatype":"xsd:integer"},"last_activity":{"predicates":["sioc:last_activity_date"],"datatype":"xsd:dateTime","callback":"date_iso8601"}},"cid":"0","last_comment_timestamp":"1405632421","last_comment_name":null,"last_comment_uid":"1","comment_count":"0","name":"kevin","picture":"0","data":"b:0;","path":"http://drupalcamp.kevinblanco.io/?q=node/2"}
+Terminating in response to SpringBoard's termination.
+2014-07-18 18:32:05.009 DrupalCamp[66829:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-18 18:32:05.015 DrupalCamp[66829:70b] Unlimited access to network resources
+2014-07-18 18:32:05.029 DrupalCamp[66829:70b] [CDVTimer][keyboard] 0.077009ms
+2014-07-18 18:32:05.030 DrupalCamp[66829:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-18 18:32:05.030 DrupalCamp[66829:70b] [CDVTimer][statusbar] 0.494003ms
+2014-07-18 18:32:05.031 DrupalCamp[66829:70b] [CDVTimer][TotalPluginStartup] 1.447022ms
+2014-07-18 18:32:05.103 DrupalCamp[66829:70b] Resetting plugins due to page load.
+2014-07-18 18:32:05.194 DrupalCamp[66829:70b] Finished load of: file:///Users/kevinblanco/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/037CEED2-1B2D-4E1C-BCD0-551185A19B55/DrupalCamp.app/www/index.html#/app/cars
+2014-07-18 18:32:18.547 DrupalCamp[66829:70b] {"vid":"4","uid":"1","title":"Daihatsu","log":"","status":"1","comment":"1","promote":"1","sticky":"0","nid":"4","type":"car","language":"und","created":"1405643231","changed":"1405727014","tnid":"0","translate":"0","revision_timestamp":"1405727014","revision_uid":"1","body":{"und":[{"value":"El carro esta bueno","summary":"","format":"filtered_html","safe_value":"<p>El carro esta bueno</p>\n","safe_summary":""}]},"field_model":{"und":[{"value":"Charade","format":null,"safe_value":"Charade"}]},"field_price":{"und":[{"value":"$2000","format":null,"safe_value":"$2000"}]},"field_photo":{"und":[{"fid":"5","uid":"1","filename":"daihatsu.jpeg","uri":"public://daihatsu.jpeg","filemime":"image/jpeg","filesize":"10218","status":"1","timestamp":"1405727014","rdf_mapping":[],"alt":"","title":"","width":"259","height":"194"}]},"field_status":{"und":[{"value":"regular"}]},"field_transmission":{"und":[{"value":"manual"}]},"field_mileage":{"und":[{"value":"190000","format":null,"safe_value":"190000"}]},"field_year":{"und":[{"value":"1999"}]},"field_color":{"und":[{"value":"Azul","format":null,"safe_value":"Azul"}]},"field_features":{"und":[{"value":"rtv"},{"value":"radio"}]},"rdf_mapping":{"rdftype":["sioc:Item","foaf:Document"],"title":{"predicates":["dc:title"]},"created":{"predicates":["dc:date","dc:created"],"datatype":"xsd:dateTime","callback":"date_iso8601"},"changed":{"predicates":["dc:modified"],"datatype":"xsd:dateTime","callback":"date_iso8601"},"body":{"predicates":["content:encoded"]},"uid":{"predicates":["sioc:has_creator"],"type":"rel"},"name":{"predicates":["foaf:name"]},"comment_count":{"predicates":["sioc:num_replies"],"datatype":"xsd:integer"},"last_activity":{"predicates":["sioc:last_activity_date"],"datatype":"xsd:dateTime","callback":"date_iso8601"}},"cid":"0","last_comment_timestamp":"1405643231","last_comment_name":null,"last_comment_uid":"1","comment_count":"0","name":"kevin","picture":"0","data":"b:0;","path":"http://drupalcamp.kevinblanco.io/?q=node/4"}
+2014-07-18 18:32:29.335 DrupalCamp[66829:70b] {"vid":"3","uid":"1","title":"Toyota","log":"","status":"1","comment":"1","promote":"1","sticky":"0","nid":"3","type":"car","language":"und","created":"1405633062","changed":"1405633062","tnid":"0","translate":"0","revision_timestamp":"1405633062","revision_uid":"1","body":{"und":[{"value":"Llantas nueva de taco grueso con aros de lujo negros. ","summary":"","format":"filtered_html","safe_value":"<p>Llantas nueva de taco grueso con aros de lujo negros.</p>\n","safe_summary":""}]},"field_model":{"und":[{"value":"Rav4","format":null,"safe_value":"Rav4"}]},"field_price":{"und":[{"value":"$50000","format":null,"safe_value":"$50000"}]},"field_photo":{"und":[{"fid":"3","uid":"1","filename":"toyota-gets-tough-luxurious-with-new-rav4-concepts-photo-gallery-55963_1.jpg","uri":"public://toyota-gets-tough-luxurious-with-new-rav4-concepts-photo-gallery-55963_1.jpg","filemime":"image/jpeg","filesize":"186455","status":"1","timestamp":"1405633062","rdf_mapping":[],"alt":"","title":"","width":"1600","height":"1067"}]},"field_status":{"und":[{"value":"perfect"}]},"field_transmission":{"und":[{"value":"automatic"}]},"field_mileage":{"und":[{"value":"20000","format":null,"safe_value":"20000"}]},"field_year":{"und":[{"value":"2013"}]},"field_color":{"und":[{"value":"Rojo","format":null,"safe_value":"Rojo"}]},"field_features":{"und":[{"value":"airbag"},{"value":"ac"},{"value":"alarm"},{"value":"rtv"},{"value":"absbreaks"}]},"rdf_mapping":{"rdftype":["sioc:Item","foaf:Document"],"title":{"predicates":["dc:title"]},"created":{"predicates":["dc:date","dc:created"],"datatype":"xsd:dateTime","callback":"date_iso8601"},"changed":{"predicates":["dc:modified"],"datatype":"xsd:dateTime","callback":"date_iso8601"},"body":{"predicates":["content:encoded"]},"uid":{"predicates":["sioc:has_creator"],"type":"rel"},"name":{"predicates":["foaf:name"]},"comment_count":{"predicates":["sioc:num_replies"],"datatype":"xsd:integer"},"last_activity":{"predicates":["sioc:last_activity_date"],"datatype":"xsd:dateTime","callback":"date_iso8601"}},"cid":"0","last_comment_timestamp":"1405633062","last_comment_name":null,"last_comment_uid":"1","comment_count":"0","name":"kevin","picture":"0","data":"b:0;","path":"http://drupalcamp.kevinblanco.io/?q=node/3"}
+2014-07-18 18:32:50.765 DrupalCamp[66829:70b] Received memory warning.
